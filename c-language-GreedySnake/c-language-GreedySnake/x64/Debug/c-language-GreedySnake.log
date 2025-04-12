@@ -1,6 +1,0 @@
-﻿  snake.c
-  text.c
-  案例测试代码.c
-  正在生成代码...
-D:\c-language-learning\c-language-GreedySnake\c-language-GreedySnake\text.c(11,8): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  c-language-GreedySnake.vcxproj -> D:\c-language-learning\c-language-GreedySnake\x64\Debug\c-language-GreedySnake.exe
